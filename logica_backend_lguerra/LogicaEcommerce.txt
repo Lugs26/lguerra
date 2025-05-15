@@ -1,0 +1,25 @@
+MODELO DEL ECOMMERCE
+
+- Rubro del negocio: Productos de consumo masivo (abarrotes, articulos de higiene, golosionas, gaseosas)
+
+- Publico dirigido:
+    Consumidores finales (captacion por medio de la pagina web)
+    Restaurantes (captacion por medio de vendedores y la pagina web)
+    Minimarkets y bodegas (captacion por medio de vendedores y la pagina web)
+    Tiendas Mayoristas (captacion por medio de vendedores y la pagina web)
+
+- Metodo de captacion de pedidos: a traves de la pagina web (proyecto backend) por medio del mismo usuario o vendedores asignados
+
+- Medio de entrega: 
+    Delivery (cobro adicional) para consumidores finales y restaurantes
+    Reparto (sin costo adicional) en dias especificos para negocios
+
+- Medio de pago: Pago con tarjeta, Yape, Plin, transferencia y efectivo
+    Pago anticipado para Delivery, pago contraentrega para negocios o factura 7 dias para clientes evaluados.
+
+- Para el caso de vendedores asignados, reciben una comision por las ventas de acuerdo al tipo de producto
+
+Los clientes o vendedores ingresan a la web, se logean y de acuerdo al tipo de cliente (consumido o negocio), se les habilita los productos y precios de acuerdo a su tipologia,
+seleccionan sus productos, los agregan al carrito, confimar la orden de pedido, realizan en pago (en caso de Delivery), se confirma su pedido, se prepara el pedido,
+se carga al transporte y se realiza la entrega, para el caso de reparto (entrega a negocios), al termino de su ruta realizá una liquidacion con el dinero cobrado
+y los productos no entregados.
